@@ -1,0 +1,6 @@
+id;username;nombre;rol;activo
+1;ana;ana;USER;true
+5;carlitos;carlitos;ADMIN;true
+8;castro;castro;ADMIN;true
+9;jose;jose;USER;true
+10;testo;testin;USER;True
